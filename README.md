@@ -11,6 +11,7 @@ denvey blog </br>
     <a href="http://www.pudong-edu.sh.cn">浦东教育</a></br>
     <a href="http://edu.cm.net.cn/">崇明教育</a></br>
     <a href="http://www.eicbs.com/">宝山教育</a></br>
+    <a href="http://101.226.202.196:8999/website/online/list.zul">宝山教育招聘平台</a></br>
     <a href="http://www.hpe.sh.cn/">黄浦教育</a></br>
     <a href="http://rczx.lwedu.sh.cn">黄浦教育人才</a></br>
     <a href="http://www.xhedu.sh.cn">徐汇教育</a></br>
